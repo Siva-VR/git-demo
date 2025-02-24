@@ -1,3 +1,7 @@
 hello hai
+<<<<<<< HEAD
 how are you?
 -------------------------
+=======
+Namasthe
+>>>>>>> 69facf40c8a181acbc6c3144b15b9a4f359fb24c
